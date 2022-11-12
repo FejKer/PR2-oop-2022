@@ -1,0 +1,8 @@
+C:\Users\ozzy\source\repos\Fractions\Fractions\obj\Debug\Fractions.csproj.AssemblyReference.cache
+C:\Users\ozzy\source\repos\Fractions\Fractions\obj\Debug\Fractions.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozzy\source\repos\Fractions\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\ozzy\source\repos\Fractions\Fractions\bin\Debug\Fractions.exe.config
+C:\Users\ozzy\source\repos\Fractions\Fractions\bin\Debug\Fractions.exe
+C:\Users\ozzy\source\repos\Fractions\Fractions\bin\Debug\Fractions.pdb
+C:\Users\ozzy\source\repos\Fractions\Fractions\obj\Debug\Fractions.exe
+C:\Users\ozzy\source\repos\Fractions\Fractions\obj\Debug\Fractions.pdb
