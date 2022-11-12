@@ -1,0 +1,8 @@
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe.config
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\bin\Debug\ReadWrite.pdb
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.AssemblyReference.cache
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\obj\Debug\ReadWrite.exe
+C:\Users\ozzy\source\repos\ReadWrite\ReadWrite\obj\Debug\ReadWrite.pdb
