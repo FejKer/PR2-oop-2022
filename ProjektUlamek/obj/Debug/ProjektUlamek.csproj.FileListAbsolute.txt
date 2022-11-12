@@ -1,8 +1,0 @@
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\bin\Debug\ProjektUlamek.exe.config
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\bin\Debug\ProjektUlamek.exe
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\bin\Debug\ProjektUlamek.pdb
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\obj\Debug\ProjektUlamek.csproj.AssemblyReference.cache
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\obj\Debug\ProjektUlamek.csproj.SuggestedBindingRedirects.cache
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\obj\Debug\ProjektUlamek.csproj.CoreCompileInputs.cache
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\obj\Debug\ProjektUlamek.exe
-C:\Users\ozzy\source\repos\ProjektUlamek\ProjektUlamek\obj\Debug\ProjektUlamek.pdb
